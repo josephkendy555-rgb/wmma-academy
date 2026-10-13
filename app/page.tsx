@@ -367,8 +367,7 @@ export default function Home() {
 
         <p>Apprendre. Créer. Inspirer.</p>
 
-        <span>© {new Date().getFullYear()} WMMA Haiti</span>
-      </footer>
+<span>© 2026 WMMA Haiti</span>      </footer>
     </main>
   );
 }
